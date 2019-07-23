@@ -1,0 +1,14 @@
+.input {
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+#viewInput {
+    border: 1px solid palevioletred;
+    flex-basis: 50%;
+}
+#seeInput {
+border: 1px solid darkgreen;
+flex-basis: 50%;
+}
